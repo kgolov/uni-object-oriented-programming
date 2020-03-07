@@ -1,0 +1,8 @@
+﻿  MeteoStation.cpp
+C:\Users\Kiril\source\repos\OOP-Preparation-Exam-2\Task-02\MeteoStation.cpp(25,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Kiril\source\repos\OOP-Preparation-Exam-2\Task-02\MeteoStation.cpp(52,25): warning C4018:  '>=': signed/unsigned mismatch
+  NewspaperObserver.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Kiril\source\repos\OOP-Preparation-Exam-2\Task-02\MeteoStation.cpp(64,20): warning C4018:  '<': signed/unsigned mismatch
+  Task-02.vcxproj -> C:\Users\Kiril\source\repos\OOP-Preparation-Exam-2\Debug\Task-02.exe
